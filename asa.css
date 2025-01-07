@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #f4f4f4;
+    padding: 10px 20px;
+    border-bottom: 1px solid #ddd;
+}
+
+header nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+.h1 {
+    margin-top: ;
+}
+
+section {
+    display: ;
+    justify-content: space-between;
+    align-items: ;
+    padding: 50px 20px;
+}
+section a {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 15px;
+    background: #ff5555;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1em;
+}
+}
+
+.text-content {
+    width: 60%;
+  margin-top: -200px;
+}
+
+.button-links,
+.product-grid {
+    width: 35%;
+    text-align: right;
+}
+
+.button-links a {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 15px;
+    background: #ff5555;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1em;
+}
+
+
+.p {
+    margin-top: 200px;
+    margin-right: 100px;
+    margin-top: -20px;
+}
+.сурет3{
+    width: 10px;
+    
+}
+.aaa {
+    margin-left: 1100px;
+    margin-top: -380px;
+    width: 400px;
+    height: 250px;
+}
